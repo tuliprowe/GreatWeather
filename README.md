@@ -1,0 +1,2 @@
+# GreatWeather
+这是参照郭霖的coolweather写的一个项目，同时学习一下github的使用管理
